@@ -1,0 +1,29 @@
+# gitignore file for the home directory
+
+# ignore all
+
+*
+
+# except config files
+
+!.editorconfig
+!.gitignore
+!.gitconfig
+!.gitattributes
+!.tmux.conf
+!.vimrc
+!.zshrc
+
+# & public ssh keys
+
+!.ssh/*.pub
+!.ssh/config
+
+# specific settings
+
+!.rustup/settings.toml
+!.i2pd/
+
+# custom automatization scripts ("binaries")
+!.bin/pipupd
+

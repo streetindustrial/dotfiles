@@ -1,0 +1,6 @@
+#!/usr/bin/env zsh
+
+echo 'Running pip-update script:'
+pip2 install -U $(pip2 list --not-required --pre --format legacy | awk '{print $1;}' | xargs)
+pip3 install -U $(pip3 list --not-required --pre --format legacy | awk '{print $1;}' | xargs)
+
