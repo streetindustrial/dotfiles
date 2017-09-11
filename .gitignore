@@ -26,4 +26,4 @@
 
 # custom automatization scripts ("binaries")
 !.bin/pipupd
-
+!.bin/imgcat
