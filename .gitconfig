@@ -1,6 +1,9 @@
 [user]
     name = streetindustrial
     email = violetred@privacyrequired.com
+[http]
+    [http "https://github.com/streetindustrial"]
+        proxy = http://localhost:9050
 [core]
     excludefile = ~/.gitignore_global
     attributesfile = ~/.gitattributes

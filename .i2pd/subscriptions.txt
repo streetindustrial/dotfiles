@@ -10,3 +10,10 @@ http://no.i2p/jump/
 http://stats.i2p/cgi-bin/jump.cgi?a=
 http://stats.i2p/cgi-bin/newhosts.txt
 http://tino.i2p/hosts.txt
+http://www.i2p2.i2p/hosts.txt
+http://trevorreznik.i2p/hosts.txt
+http://rus.i2p/hosts.txt
+http://dream.i2p/hosts.txt
+http://cipherspace.i2p/addressbook.txt
+http://bl.i2p/hosts2.txt
+http://joajgazyztfssty4w2on5oaqksz6tqoxbduy553y34mf4byv6gpq.b32.i2p/export/alive-hosts.txt

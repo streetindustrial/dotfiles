@@ -23,7 +23,10 @@
 
 !.rustup/settings.toml
 !.i2pd/
+!.torrc
+!.arm/armrc
 
 # custom automatization scripts ("binaries")
 !.bin/pipupd
 !.bin/imgcat
+!.bin/webdump
